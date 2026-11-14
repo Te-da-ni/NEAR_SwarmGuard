@@ -1,0 +1,9 @@
+{
+  "risk_score": 58,
+  "action": "hold",
+  "from_token": null,
+  "to_token": null,
+  "amount_usd": 0,
+  "confidence": 0.79,
+  "reasoning": "The saved Scout snapshot shows a material 24-hour NEAR decline while the network is not syncing. This snapshot alone does not support a concrete swap, so hold and reassess with another observation."
+}
