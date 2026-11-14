@@ -2,49 +2,49 @@
   "agent": "Scout",
   "status": "done",
   "data_status": "fresh",
-  "timestamp": "2026-11-14T14:20:14Z",
+  "timestamp": "2026-11-14T15:38:52Z",
   "metrics": {
     "network": {
       "chain_id": "mainnet",
       "latest_protocol_version": 88,
-      "latest_block_height": 224525704,
-      "latest_block_time": "2026-11-14T14:20:11.385628331Z",
+      "latest_block_height": 224534026,
+      "latest_block_time": "2026-11-14T15:38:49.629593500Z",
       "syncing": false,
-      "uptime_seconds": 149833,
+      "uptime_seconds": 157858,
       "node_version": "2.14.1"
     },
     "prices": {
       "NEAR": {
-        "usd": 3.27301244829693,
-        "change_24h_pct": -7.059999942779541,
-        "market_cap_usd": 4293132933.0,
+        "usd": 3.1839483734769596,
+        "change_24h_pct": -9.420000076293945,
+        "market_cap_usd": 4176390799.0,
         "source_id": "near-near-protocol"
       },
       "ETH": {
-        "usd": 1872.075410278339,
-        "change_24h_pct": -3.450000047683716,
-        "market_cap_usd": 228802480668.0,
+        "usd": 1833.8910133043119,
+        "change_24h_pct": -4.940000057220459,
+        "market_cap_usd": 224135636212.0,
         "source_id": "eth-ethereum"
       },
       "BTC": {
-        "usd": 66440.85119203014,
-        "change_24h_pct": -3.2899999618530273,
-        "market_cap_usd": 1336250492712.0,
+        "usd": 65231.30125557325,
+        "change_24h_pct": -4.96999979019165,
+        "market_cap_usd": 1311926190497.0,
         "source_id": "btc-bitcoin"
       },
       "SOL": {
-        "usd": 75.00965962550345,
-        "change_24h_pct": -6.230000019073486,
-        "market_cap_usd": 44373751106.0,
+        "usd": 73.70069162933606,
+        "change_24h_pct": -7.360000133514404,
+        "market_cap_usd": 43599398136.0,
         "source_id": "sol-solana"
       }
     },
     "source_timestamps": {
-      "network": "2026-11-14T14:20:11.385628331Z",
-      "NEAR": "2026-11-14T14:15:15Z",
-      "ETH": "2026-11-14T14:14:15Z",
-      "BTC": "2026-11-14T14:15:15Z",
-      "SOL": "2026-11-14T14:15:15Z"
+      "network": "2026-11-14T15:38:49.629593500Z",
+      "NEAR": "2026-11-14T15:34:16Z",
+      "ETH": "2026-11-14T15:35:15Z",
+      "BTC": "2026-11-14T15:35:15Z",
+      "SOL": "2026-11-14T15:35:15Z"
     }
   },
   "message": "Scout fetched live NEAR network status and CoinPaprika USD prices."
