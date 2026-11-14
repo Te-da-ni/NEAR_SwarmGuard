@@ -1,0 +1,51 @@
+{
+  "agent": "Scout",
+  "status": "done",
+  "data_status": "fresh",
+  "timestamp": "2026-11-14T13:53:25Z",
+  "metrics": {
+    "network": {
+      "chain_id": "mainnet",
+      "latest_protocol_version": 88,
+      "latest_block_height": 224522884,
+      "latest_block_time": "2026-11-14T13:53:07.363065896Z",
+      "syncing": false,
+      "uptime_seconds": 149010,
+      "node_version": "2.14.1"
+    },
+    "prices": {
+      "NEAR": {
+        "usd": 3.326101796537642,
+        "change_24h_pct": -6.630000114440918,
+        "market_cap_usd": 4362769034.0,
+        "source_id": "near-near-protocol"
+      },
+      "ETH": {
+        "usd": 1887.7369607453836,
+        "change_24h_pct": -3.5,
+        "market_cap_usd": 230716613816.0,
+        "source_id": "eth-ethereum"
+      },
+      "BTC": {
+        "usd": 66618.2379965448,
+        "change_24h_pct": -3.7699999809265137,
+        "market_cap_usd": 1339816809269.0,
+        "source_id": "btc-bitcoin"
+      },
+      "SOL": {
+        "usd": 75.32042501724852,
+        "change_24h_pct": -6.940000057220459,
+        "market_cap_usd": 44557592756.0,
+        "source_id": "sol-solana"
+      }
+    },
+    "source_timestamps": {
+      "network": "2026-11-14T13:53:07.363065896Z",
+      "NEAR": "2026-11-14T13:38:15Z",
+      "ETH": "2026-11-14T13:39:15Z",
+      "BTC": "2026-11-14T13:25:14Z",
+      "SOL": "2026-11-14T13:39:15Z"
+    }
+  },
+  "message": "Seed snapshot collected from public NEAR RPC and CoinPaprika ticker endpoints."
+}
