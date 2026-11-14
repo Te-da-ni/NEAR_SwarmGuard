@@ -1,0 +1,9 @@
+{
+  "allowed_tokens": [
+    "nep141:wrap.near",
+    "nep141:usdt.tether-token.near"
+  ],
+  "max_amount_usd": 5,
+  "min_confidence": 0.7,
+  "cooldown_seconds": 60
+}
